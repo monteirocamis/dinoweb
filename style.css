@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(250,250,250,255);
+}
+.dino{
+    background-image: url(dino.png);
+    position: absolute ;
+    bottom: 0;
+    width: 60px;
+    height: 60px;
+}
+.background{
+    background-image: url(background.png);
+    background-repeat: repeat-x;
+    position: absolute;
+    bottom: 10px;
+
+    width: 100%;
+    height: 200px;
+
+}
